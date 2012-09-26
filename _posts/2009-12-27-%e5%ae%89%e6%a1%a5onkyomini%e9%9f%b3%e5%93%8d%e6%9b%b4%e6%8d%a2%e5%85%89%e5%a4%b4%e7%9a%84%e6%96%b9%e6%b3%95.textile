@@ -1,0 +1,33 @@
+---
+layout: post
+title: 安桥(onkyo)CS-220 Liverpool mini 音响更换光头的方法
+---
+
+我在06年在华强北嘉丰音响入手了一台onkyo CS-220书架音响，平时用她听学生卡带时代听喜欢上的的老歌，深圳本地的FM，还有在笔记本上看电影的时候用line输入做PC音箱用，陪伴我度过了初来深圳的许多孤独时光。
+<!--more-->今年上半年她的读碟能力开始下降，无故停止或跳曲目。前段时间则彻底失去读碟能力，CD放进去，reading之后显示NO DISC，光头老化，需要更换了。
+打安桥深圳的维修电话，光头价格350元，维修费120元，而且地址还在上步北路。
+拆开CR-505，拿出CD机，发现光头是sony 的 KSS-213C。在网上买了一个深圳产的无标KSS-213C，换上，放进《青春无悔》白衣飘飘的年代，叶蓓好听的声音^^
+
+CR-505拆机过程：
+1>取下铝合金前面板(螺丝在前面板底部)
+2>取下上盖(螺丝在前面板机身后面)
+3>拆下CD仓前挡板，取出CD机(4颗螺丝在CD机四角)。如果感觉CD机很难取出，也可以掰开按键面板左边。可以先试着调节控制光头功率的可调电阻，看是否读碟能力能苟延残喘一段时间。
+
+KSS-213c光头跟换过程:
+1>取下PCB，拔出排线
+2>撬出光头支架
+3>抽出光头轨道滑杆，取下光头驱动齿轮，换上新光头，点开光头保护焊点。
+
+注意：如果更换整个光头带支架，则需要比较CD旋转马达上面的托盘，如若高度不一致，会影响读碟。
+
+[caption id="attachment_272" align="alignleft" width="672" caption="拆开CR-505"]<a href="http://mattjiang.com/blog/wp-content/uploads/2009/12/拆开CR-505.jpg"><img class="size-full wp-image-272 " title="拆开CR-505" src="http://mattjiang.com/blog/wp-content/uploads/2009/12/拆开CR-505.jpg" alt="" width="672" height="483" /></a>[/caption]
+
+[caption id="attachment_273" align="alignleft" width="694" caption="取出CD机"]<a href="http://mattjiang.com/blog/wp-content/uploads/2009/12/取出CD机.jpg"><img class="size-full wp-image-273" title="取出CD机" src="http://mattjiang.com/blog/wp-content/uploads/2009/12/取出CD机.jpg" alt="" width="694" height="472" /></a>[/caption]
+
+[caption id="attachment_274" align="alignleft" width="697" caption="光头功率调节旋钮"]<a href="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头功率调节旋钮.jpg"><img class="size-full wp-image-274" title="光头功率调节旋钮" src="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头功率调节旋钮.jpg" alt="" width="697" height="464" /></a>[/caption]
+
+[caption id="attachment_275" align="alignleft" width="682" caption="光头带支架"]<a href="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头带支架.jpg"><img class="size-full wp-image-275" title="光头带支架" src="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头带支架.jpg" alt="" width="682" height="496" /></a>[/caption]
+
+[caption id="attachment_276" align="alignleft" width="683" caption="光头和支架"]<a href="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头和支架.jpg"><img class="size-full wp-image-276" title="光头和支架" src="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头和支架.jpg" alt="" width="683" height="446" /></a>[/caption]
+
+[caption id="attachment_277" align="alignleft" width="689" caption="光头和保护焊点"]<a href="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头和保护焊点.jpg"><img class="size-full wp-image-277" title="光头和保护焊点" src="http://mattjiang.com/blog/wp-content/uploads/2009/12/光头和保护焊点.jpg" alt="" width="689" height="508" /></a>[/caption] 

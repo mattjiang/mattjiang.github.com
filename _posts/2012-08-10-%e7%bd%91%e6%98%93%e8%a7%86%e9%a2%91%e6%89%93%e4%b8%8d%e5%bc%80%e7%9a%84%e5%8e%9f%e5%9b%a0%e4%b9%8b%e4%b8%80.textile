@@ -1,0 +1,10 @@
+---
+layout: post
+title: 网易视频打不开的原因之一
+---
+
+﻿<a href="http://mattjiang.com/blog/wp-content/uploads/2012/08/Untitled.jpg"><img class="alignnone size-full wp-image-678" title="Untitled" src="http://mattjiang.com/blog/wp-content/uploads/2012/08/Untitled.jpg" alt="" width="953" height="798" /></a>
+
+如果换浏览器，重装flash插件都不能解决，那有可能是DNS的原因。比如使用open DNS就会出现这种问题。
+
+修改dns为本地ISP的DNS或google DNS就行了。

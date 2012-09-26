@@ -1,0 +1,666 @@
+---
+layout: post
+title: 未读书目
+---
+
+书架上堆积的未读书，特别是kindle里收集的未读书越来越多，所以整理了一下放在这里，改天做个阅读顺序和计划。总共需用时903天，GOD!
+纸质书：
+<table border="0" cellspacing="0" cellpadding="0" width="531">
+<tbody>
+
+<td width="305" valign="bottom">书目
+<td width="56" valign="bottom">页数
+<td width="85" valign="bottom">预计天数
+<td width="85" valign="bottom">实际天数
+|
+
+
+<td width="305" valign="bottom">逻辑学导论
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">aha,gocha
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">树百科
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">3
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">经济学原理宏观
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">10
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">经济学原理微观
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">一天一点经济学
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">3
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">剑桥商务英语
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">30
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">英语常用词用法词典
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">21
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">牛津现代英语用法词典
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">朗文简明英语联想或用词典
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">21
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">简明拉丁语教程
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">拉丁语和希腊语
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">Merriam-webster's Vocabulary Builder
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">Merriam Webster's Collegiate Thesaurus
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">圣经
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">30
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">康德论上帝与宗教
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">中间地带的革命
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">西方哲学史
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">天朝的崩溃
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">乌合之众
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">3
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">社会心理学
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">10
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">自由与权力：宪政的中国言说
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">二十世纪初的中国政治改革风潮
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">通往奴役之路
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">开放社会及其敌人
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">10
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">一九八四
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">动物农场
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">重新发现社会
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">极权主义的起源
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">也同欢乐也同愁
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">C程序设计语言
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">C和指针
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">C语言核心技术
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">21
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">C专家编程
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">C缺陷与陷阱
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">Perl语言入门
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">精通正则表达式
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">shell脚本学习指南
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">深入理解计算机系统
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">21
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">深入理解linux内核
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">30
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">μc/OS II实时操作系统
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">30
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">人月神话
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">IT企业研发管理
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">使用电子元器件与电路基础
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">晶体管电路设计上
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">晶体管电路设计下
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">振荡电路的设计与应用
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="305" valign="bottom">OP放大器电路设计
+<td width="56" valign="bottom">
+<td width="85" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+</tbody>
+
+电纸书：
+<table border="0" cellspacing="0" cellpadding="0" width="562">
+<tbody>
+
+<td width="204" valign="bottom">数目
+<td width="72" valign="bottom">页数
+<td width="81" valign="bottom">预计天数
+<td width="85" valign="bottom">实际天数
+|
+
+
+<td width="204" valign="bottom">学习的艺术
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">一种更强大的力量
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">重塑工作
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">追寻现代中国
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">十亿消费者
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">消失中的江城
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">当下的力量
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">少有人走的路
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">如何阅读一本书
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">策略思维
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">新的综合
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">百年中国经济史笔记
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">第三帝国的兴亡
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">国防论
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">2
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">约翰克里斯朵夫
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">人间词话
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">怪诞行为学
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">文强口述自传
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">八十年代访谈录
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">李宗仁回忆录
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">14
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">汉匈战争三百年
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">七十年代
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">一课经济学
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">明末农民战争史
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">中国大历史
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">袁氏当国
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">17
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">男人来自火星女人来自金星
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">希腊神话故事
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">美国是如何培养精英的
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">尘世挽歌
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">权力论
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">社会契约论
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">作为意志和表象的世界
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">美国宪政历程
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">国富论
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">日本帝国的衰亡
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">莎士比亚全集
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">银河系漫游指南
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">生活的见证
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">吃的真相
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">科学成就健康
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">4
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">双山回忆录
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">7
+<td width="85" valign="bottom">
+|
+
+
+<td width="204" valign="bottom">罗马帝国衰亡史
+<td width="72" valign="bottom">
+<td width="81" valign="bottom">21
+<td width="85" valign="bottom">
+|
+
+</tbody>

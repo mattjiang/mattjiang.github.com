@@ -1,0 +1,24 @@
+---
+layout: post
+title: Autobiography of Benjamin Franklin
+---
+
+最近在读Autobiography of Benjamin Franklin，读到一段很有感触的话，于是抄下来，并尝试翻成了中文。
+<div id="_mcePaste">翻译：
+“在我讲述我开始有个人生意和公共形象的经历之前，我觉得应该跟你说明一下我当时的个人原则和道德信条，从而你也能看到这些原则信条对我后来的影响。</div>
+<div id="_mcePaste">我父母的那种新教徒的虔诚给我的宗教上的影响，贯穿我整个童年时期。但是我在15岁左右的时候，产生了一些疑惑，而且在我所读的一些书中找到关于这些疑惑的争论，然后我开始怀疑启示本身。另外又有一些批评自然神论的书传到我手里，里面是一些驳斥自然神论的材料，这些书却对我产生了一些与作者意图正好相反的影响。书里引用了一些用来被驳斥的自然神论者的观点，然而与书里的驳斥相比，这些自然神论者的观点却对我产生了更大的影响。实际上，我很快便成为了一个彻底的自然神论者。</div>
+<div id="_mcePaste">我的观点影响了其他人，特别是Collins和Ralph，这两个人后来都对我做过不好的事而且没有一丝内疚。还有Keith，也是一个自由思想者，同样对我的态度也不公。而我自己对Vernon先生还有Read小姐也做过一些曾给我带来很大麻烦的不好的事。经历所有这些后，我开始怀疑自然神论的那些信条，或许它们是对的，但却不是很有益。我在伦敦写的小册子里面引用有一段Dryden的文章："Whatever is, is right. Though purblind man Sees but a part o' the chain, the nearest link: His eyes not carrying to the equal beam, That poises all above;"</div>
+<div id="_mcePaste">上帝是全能的，所以世上所有的事都不会没有道理。而且我开始怀疑是否有一些没有被察觉的错误在我头脑里悄然产生，进而影响了我后来的所有判断，就像在形而上学里常见的那样。我越来越确信，在与人相处的时候，真诚、诚恳和正直是对生命的幸福最关键的。我在我的笔记本里写下这些准则，并且在我有生之年一直践行。</div>
+<div id="_mcePaste">启示当然不会对我产生多大的负担，但是我还是乐于认为，虽然某些行为也许并不是因为是被禁止做的所以是坏的、因为是被命令做的所以是好的，可是也许是这些行为因为是对我们有害的所以被禁止去做、是对我门有益的所以被命令去做。这种信念，加上一些热心人的协助，或许是一些守护天使，或者偶尔不错的环境和状况，或者所有这些一起，保全了我，使我顺利渡过少不更事的危险时期，还有那些我初到陌生人群陌生坏境时的艰难。虽然离家太远无法获得父亲的建议，还是没有有意做过任何不道德和不道义的事，这可能就是我从宗教那里期望得到的。”
+
+</div>
+原文：
+“Before I enter upon my public appearance in business, it may be well to let you know the then state of my mind with regard to my principles and morals, that you may see how far those influenc'd the future events of my life. My parents had early given me religious impressions, and brought me through my childhood piously in the Dissenting way. But I was scarce fifteen, when, after doubting by turns of several points, as I found them disputed in the different books I read, I began to doubt of Revelation itself.
+
+Some books against Deism fell into my hands; they were said to be the substance of sermons preached at Boyle's Lectures. It happened that they wrought an effect on me quite contrary to what was intended by them; for the arguments of the Deists, which were quoted to be refuted, appeared to me much stronger than the refutations; in short, I soon became a thorough Deist. My arguments perverted some others, particularly Collins and Ralph; but, each of them having afterwards wrong'd me greatly without the least compunction, and recollecting Keith's conduct towards me (who was another freethinker), and my own towards Vernon and Miss Read, which at times gave me great trouble, I began to suspect that this doctrine, tho' it might be true, was not very useful. My London pamphlet, which had for its motto these lines of Dryden:
+
+"Whatever is, is right. Though purblind man Sees but a part o' the chain, the nearest link: His eyes not carrying to the equal beam, That poises all above;"
+
+and from the attributes of God, his infinite wisdom, goodness and power, concluded that nothing could possibly be wrong in the world, and that vice and virtue were empty distinctions, no such things existing, appear'd now not so clever a performance as I once thought it; and I doubted whether some error had not insinuated itself unperceiv'd into my argument, so as to infect all that follow'd, as is common in metaphysical reasonings.
+
+I grew convinc'd that truth, sincerity and integrity in dealings between man and man were of the utmost importance to the felicity of life; and I form'd written resolutions, which still remain in my journal book, to practice them ever while I lived. Revelation had indeed no weight with me, as such; but I entertain'd an opinion that, though certain actions might not be bad because they were forbidden by it, or good because it commanded them, yet probably these actions might be forbidden because they were bad for us, or commanded because they were beneficial to us, in their own natures, all the circumstances of things considered. And this persuasion, with the kind hand of Providence, or some guardian angel, or accidental favorable circumstances and situations, or all together, preserved me, thro' this dangerous time of youth, and the hazardous situations I was sometimes in among strangers, remote from the eye and advice of my father, without any willful gross immorality or injustice, that might have been expected from my want of religion.”

@@ -1,0 +1,33 @@
+---
+layout: post
+title: 2011年支出状况
+---
+
+<ul>
+	<li>FINANCE ¥4644.30</li>
+</ul>
+<ul>
+	<li>STUDY ¥45414.00</li>
+</ul>
+<ul>
+	<li>TRANSPORT ¥7061.00</li>
+</ul>
+<ul>
+	<li>OTHER ¥3701.00</li>
+</ul>
+<ul>
+	<li>FOOD ¥24024.00</li>
+</ul>
+<ul>
+	<li>COMMUNICATION ¥2806.00</li>
+</ul>
+<ul>
+	<li>SHOPPING ¥32081.00</li>
+</ul>
+<ul>
+	<li>AMUSEMENT ¥4203.00</li>
+</ul>
+<ul>
+	<li>HOUSE ¥23990.00</li>
+</ul>
+总计：¥147924.30

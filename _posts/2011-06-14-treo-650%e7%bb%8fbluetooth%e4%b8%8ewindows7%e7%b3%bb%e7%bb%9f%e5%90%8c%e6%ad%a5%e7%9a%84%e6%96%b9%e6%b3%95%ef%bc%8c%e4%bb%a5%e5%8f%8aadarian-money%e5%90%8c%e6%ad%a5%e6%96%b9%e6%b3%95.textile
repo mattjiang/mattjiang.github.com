@@ -1,0 +1,16 @@
+---
+layout: post
+title: treo 650经bluetooth与windows7系统同步的方法，以及adarian money同步方法
+---
+
+终于下定决心弃用坑爹的milestone，回归treo650。
+由此产生两个问题：
+1>milestone 上面已经用easymoney记录了1年半的个人财务数据了 ，必须转到650的adarian money上
+2>不想经常拿小镊子刮650那氧化的数据接口，必须搞定650和笔记本之间的蓝牙同步，麻烦的是笔记本装了win7。
+
+第一个问题花了我很多时间，总计应该有25小时左右。财务软件没有统一规范，easymoney可以 导出QIF数据，adarian money可以导入QIF数据。编码不一样，可以先用ultraedit把导出的数据转为ASCII码。先导入PC端的adarian money。另外导入的时候，交易基本正确，但是转账须全部删除重新添加，光这一项就花了我20小时左右。在PC端导入并修改完成后，即可同步、覆盖650上的adarian money。同步时，需注意，palm端和PC端的adarian money版本必须匹配，否则无法同步成功。我多次同步adarian money不成功后，查看同步日志，才发现原因，最后在官网下载最新版的adarian mone for win 和for palm以及AMconduit后，同步成功。
+第二个问题，蓝牙同步时总是出现端口被占用无法同步的错误提示。后来在palm支持社区搜索到问题解决办法：<a href="http://kb.palm.com/wps/portal/kb/common/article/49229_en.html">http://kb.palm.com/wps/portal/kb/common/article/49229_en.html
+</a>即下载最新的同步软件6.2版即可。
+
+至此终于安心使用650了，并且在淘宝上给650换了个新外壳，对他，我充满了感情
+<a href="http://mattjiang.com/blog/wp-content/uploads/2011/06/2011-06-14_22-00-29_902.jpg"><img class="alignleft size-large wp-image-553" title="2011-06-14_22-00-29_902" src="http://mattjiang.com/blog/wp-content/uploads/2011/06/2011-06-14_22-00-29_902-1024x575.jpg" alt="" width="640" height="359" /></a>

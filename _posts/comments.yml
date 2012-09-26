@@ -1,0 +1,309 @@
+--- !ruby/object:Comment
+post_url: http://example.com/2008/08/29/%e5%94%af%e6%9c%89%e5%94%8f%e5%98%98%e6%84%9f%e5%8f%b9/
+author_name: MATT
+author_email: matt.jiang@hotmail.com
+author_url: ''
+content: 美国于8月6日向日本扔放了第一颗原子弹,苏联8月8日对日宣战,8月9日美国扔了第二颗原子弹，苏联出兵东北，8月15日日本天皇投降。
+created_at: 2011-05-05 09:15:47.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/01/14/%e6%97%ba%e8%b4%a2/
+author_name: 三毛
+author_email: javanow@21cn.com
+author_url: ''
+content: 文采真好,狠是仰慕...
+created_at: 2009-01-16 08:59:56.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/01/14/%e6%97%ba%e8%b4%a2/
+author_name: yaya
+author_email: ''
+author_url: ''
+content: 我很喜欢狗,但一直不敢养狗,据说对狗的态度可以看一个人的个性...
+created_at: 2009-03-02 12:55:04.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/02/01/%e8%bf%99%e4%b8%80%e5%88%bb/
+author_name: 三毛
+author_email: ''
+author_url: ''
+content: 现在真的要远行，要离开深圳了？
+created_at: 2009-04-18 02:42:22.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/02/01/%e8%bf%99%e4%b8%80%e5%88%bb/
+author_name: admin
+author_email: i@mattjiang.com
+author_url: http://
+content: ! '晕
+
+  这玩意不能当真'
+created_at: 2009-04-21 11:31:56.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/07/10/%e5%93%a6%ef%bc%8c%e7%a9%86%e7%bd%95%e9%bb%98%e5%be%b7%c2%b7%e9%98%bf%e9%ba%a6%e5%be%b7/
+author_name: 乌茲别克斯坦
+author_email: eagoo@gmail.com
+author_url: http://www.weeeeb.com/w/%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6
+content: 吸引人的标题，漫长曲折的情节，令人久久品味，太好了！
+created_at: 2009-07-27 00:40:51.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/09/06/%e5%a6%88%e5%a6%88%e6%88%91%e5%9b%9e%e6%9d%a5%e4%ba%86/
+author_name: Tse-yoon
+author_email: dongze@gmail.com
+author_url: ''
+content: ! '写的好简单真实。
+
+  一点感慨：那时候我们怎么就那么年轻呢'
+created_at: 2009-09-18 15:38:19.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/09/06/%e5%a6%88%e5%a6%88%e6%88%91%e5%9b%9e%e6%9d%a5%e4%ba%86/
+author_name: ''
+author_email: ''
+author_url: ''
+content: 人生，留下的都只是片断了
+created_at: 2010-02-09 04:32:27.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/09/19/%e8%af%b7%e5%8e%9f%e8%b0%85%e6%88%91%e5%8e%9f%e8%b0%85%e6%88%91%e5%8f%aa%e8%83%bd%e8%bf%99%e6%a0%b7/
+author_name: 静候
+author_email: wshidm@163.com
+author_url: ''
+content: 原来它在这里
+created_at: 2010-12-11 07:16:26.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/09/27/%e6%b7%b1%e5%9c%b3%e2%80%94%e2%80%94%e4%bb%99%e6%a1%83%e9%aa%91%e8%a1%8c%e8%a1%8c%e7%a8%8b%e5%ae%89%e6%8e%92/
+author_name: Tse-yoon
+author_email: dongze@gmail.com
+author_url: ''
+content: 这都快环法了，你的体能受得了吗？天气因素好像没有考虑。希望做好充分准备，让计划成功。
+created_at: 2009-09-29 23:35:08.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/10/24/%e4%b8%8d%e5%87%ba%e4%bc%97%e4%ba%ba%e6%89%80%e6%96%99/
+author_name: ''
+author_email: ''
+author_url: ''
+content: 你好。谢谢你的分享，我也想骑车回家，明年吧。也要到湖北，请MATT多分享点。
+created_at: 2009-12-17 11:16:54.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/11/03/%e5%bb%ba%e5%9b%bd%e5%a4%a7%e4%b8%9a%e5%92%8c%e5%a4%a7%e6%b1%9f%e5%a4%a7%e6%b5%b7/
+author_name: Tse-yoon
+author_email: dongze@gmail.com
+author_url: ''
+content: 人民创造历史，却从来没有留下他们的名字，但是那里的故事却是最感人的。
+created_at: 2009-11-05 08:12:30.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/11/03/%e5%bb%ba%e5%9b%bd%e5%a4%a7%e4%b8%9a%e5%92%8c%e5%a4%a7%e6%b1%9f%e5%a4%a7%e6%b5%b7/
+author_name: MATT
+author_email: matt.jiang@hotmail.com
+author_url: ''
+content: ! "推荐几本书，都是在大陆合法出版的，能过审查，应该不会太攻击TG\r\n\r\n正好我09、10年的读书兴趣就在民国时期的国共关系。其中有几本个人觉得非常好：《蒋介石日记》、《国民党的联共与反共》、《联合政府与一党专政》\r\n\r\nKMT前身推翻帝制，成立亚洲第一个共和国（采用当时世界最先进的美式制度），之后其实因为北洋军阀的存在，国民党其实没有实际权力，国家有北洋控制。而后蒋于万难中几乎以一己之力领导北伐成功，基本终结民不聊生的北洋军阀统治。而后黄金十年，各项建设进展很快，国家刚刚欣欣向荣。但是此时日本侵华开始，发展中断。蒋又领导抗日直至胜利，成为四大常，国际地位一度超过法国，与英国等同。而且因为作为美国在地缘政治上的天然盟国，政治制度、价值观接近。所有的人都看到中国主导东亚的未来，以及美国的大笔战后恢复援助计划。但是在抗战胜利之时，蒋的黄埔北伐嫡系基本损失殆尽，号称几百万的国民党军队，实际上大多是各地军阀后裔，抗战时观望，内战时亦观望。所以不难看到，当蒋的最后一只嫡系卫立煌以及先前由史迪威控制的印缅远征军在东北部分因为苏联的原因还有战略错误被林彪全歼之后，各地观望军阀纷纷被策反，蒋把残局交给桂系收拾后，终于一溃千里。\r\n\r\n以我个人理解，KMT更有执政合法性，如下三点：1推翻帝制，建立亚洲第一个民主共和国；2北伐肃清北洋军阀；3领导抗日直至胜利。\r\n当然，KMT也不是什么好鸟，和TG一样，以俄为师，开了党军的恶劣先例，“军政、训政、宪政”的宪政只是在48年将败之时迫于压力不得不草草实行。\r\n但是，至少可以看到，若是KMT统治，中国无疑后来会少受很多难，也会好很多。至少不会几亿民众被独夫绑架，挖地洞，同时与世界上两超为敌，差点被美苏联手核攻击。"
+created_at: 2011-05-06 06:17:10.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/12/08/%e8%8a%b1%e7%94%b2/
+author_name: Tse-yuan
+author_email: dongze@gmail.com
+author_url: ''
+content: 了不起的母亲
+created_at: 2009-12-16 15:53:42.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/12/26/%e5%ae%89%e6%a1%a5onkyomini%e9%9f%b3%e5%93%8d%e6%9b%b4%e6%8d%a2%e5%85%89%e5%a4%b4%e7%9a%84%e6%96%b9%e6%b3%95/
+author_name: ''
+author_email: ''
+author_url: ''
+content: 我也遇到了同样的问题，维修好贵啊，360。请问什么叫点开光头保护焊点，需要焊枪吗
+created_at: 2010-06-24 03:48:12.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/12/26/%e5%ae%89%e6%a1%a5onkyomini%e9%9f%b3%e5%93%8d%e6%9b%b4%e6%8d%a2%e5%85%89%e5%a4%b4%e7%9a%84%e6%96%b9%e6%b3%95/
+author_name: admin
+author_email: i@mattjiang.com
+author_url: http://
+content: ! '新的光头有两个脚是焊在一起的起保护作用
+
+  如果要使用必须先用电烙铁把连接那两个脚的焊锡去掉'
+created_at: 2010-06-24 04:12:26.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2009/12/26/%e5%ae%89%e6%a1%a5onkyomini%e9%9f%b3%e5%93%8d%e6%9b%b4%e6%8d%a2%e5%85%89%e5%a4%b4%e7%9a%84%e6%96%b9%e6%b3%95/
+author_name: 什么名称
+author_email: wshidm@163.com
+author_url: ''
+content: 我只好只是看着··记录这个过程时候你应该很安静从容哇
+created_at: 2010-12-11 05:37:31.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/02/09/%e5%a4%a7%e6%b1%9f%e5%a4%a7%e6%b2%b3%e2%80%94%e2%80%94%e6%95%85%e4%b9%a1%ef%bc%882010%e9%aa%91%e8%a1%8c%e8%ae%a1%e5%88%921%ef%bc%89/
+author_name: Tse-yuan
+author_email: dongze@gmail.com
+author_url: ''
+content: 新年快乐
+created_at: 2010-02-15 10:59:16.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/02/22/%e6%84%a7%e7%96%9a/
+author_name: 静候
+author_email: wshidm@163.com
+author_url: ''
+content: ! "那么你也遗传了你母亲的敏感嘛\r\n\r\n我终于明白我的敏感 原来是遗传自妈妈!"
+created_at: 2010-12-11 07:08:54.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/03/01/%e5%a4%96%e5%85%ac%e4%bb%8a%e5%a4%a983%e5%b2%81/
+author_name: 静候
+author_email: wshidm@163.com
+author_url: ''
+content: ! "时间让我们成熟  让父母亲人老去···\r\n终究也要有那么一个人陪着你一起老去！"
+created_at: 2010-12-11 07:05:22.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/03/17/327/
+author_name: ^-^
+author_email: ''
+author_url: ''
+content: 这也说明你工资高呗
+created_at: 2010-03-20 07:20:10.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/07/06/survival-of-the-sickest/
+author_name: Tze-yuan
+author_email: ''
+author_url: ''
+content: 病从口入
+created_at: 2010-07-06 16:23:52.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/10/12/%e5%bc%80%e5%a7%8b%e6%88%92%e7%83%9f/
+author_name: 静候
+author_email: wshidm@163.com
+author_url: ''
+content: 老烟民·
+created_at: 2010-12-11 06:02:10.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/10/24/%e6%8b%94%e7%89%99%e4%ba%86/
+author_name: 静候
+author_email: wshidm@163.com
+author_url: ''
+content: ! "哈哈，看到关于24小时，2周，2月我就觉得疼了，折磨···\r\n然后你这个脸很带感，当然跟教父的还差一些"
+created_at: 2010-12-11 05:55:51.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/10/24/%e6%8b%94%e7%89%99%e4%ba%86/
+author_name: MATT
+author_email: matt.jiangtao@gmail.com
+author_url: ''
+content: 马龙白兰度当初演老教父时，为了增加所演的老教父的气场，表现其对权力的习以为常和不愿刻意流露，以及沉稳、低调、敏锐，还有让人察觉不到的内心深度，特意在下巴那里塞了一团棉花，这样的面向带给人的感觉正如深深的法兰纹可以显示权势和地位一样
+created_at: 2011-02-19 07:56:14.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/11/12/413/
+author_name: ugg boots clearance
+author_email: ass@gmail.com
+author_url: http://www.uggbootsclearance-online.com
+content: 别小看，要全部做起来的话还真有点难。。
+created_at: 2010-12-04 05:32:09.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/11/16/%e6%94%b6%e5%9e%83%e5%9c%be%e7%9a%84%e5%a7%91%e5%a8%98/
+author_name: 静候
+author_email: wshidm@163.com
+author_url: ''
+content: ! "时光会谋杀所有~~\r\n\r\n我谨慎的评论，哈  觉得阅历尚浅，水平有限，不敢多言语。"
+created_at: 2010-12-11 05:44:13.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2010/11/16/%e6%94%b6%e5%9e%83%e5%9c%be%e7%9a%84%e5%a7%91%e5%a8%98/
+author_name: Tze-yuan
+author_email: dongze@gmail.com
+author_url: ''
+content: 开始注重生活中的细节了,居然写的这么细腻. 让我想起了鲁迅文章中的人物描写.
+created_at: 2010-12-29 11:04:01.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2011/04/22/%e7%b2%be%e8%8b%b1%e7%9a%84%e7%a7%98%e5%af%86/
+author_name: Tze-yuan
+author_email: dongze@gmail.com
+author_url: ''
+content: ! "还要有个健硕的身膀.\r\n说个我身边的例子:我在法国的导师很年轻,69年的,精力超旺,天生就是搞研究的料(中学时候是法国奥林匹克竞赛冠军),世界级的研究水平.
+  他的爱好是骑自行车, 至少两周一次100公里左右,身体很壮, 对食物的要求是精而少. 关键的是此人很耐心,对学生很包容, 对科学很敬畏. 我相信他就是科研界的精英,不用多久就会很有名的."
+created_at: 2011-04-29 08:42:03.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2011/04/22/%e7%b2%be%e8%8b%b1%e7%9a%84%e7%a7%98%e5%af%86/
+author_name: MATT
+author_email: matt.jiangtao@gmail.com
+author_url: ''
+content: ! "忘了最重要的了，身体是革命的本钱\r\n以你的见闻，那些熟悉现代科学，具有生物、物理、天文方面的专业知识的专业人士是怎么能让自己的这些专业知识不与信仰冲突的呢？"
+created_at: 2011-05-10 00:18:38.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2011/04/22/%e7%b2%be%e8%8b%b1%e7%9a%84%e7%a7%98%e5%af%86/
+author_name: Tze-yuan
+author_email: dongze@gmail.com
+author_url: ''
+content: ! "拥有信仰后,人在精神上就有了依靠, 有了做人的底线和追求. 我个人觉得知识与信仰本质上应该没有冲突, 但社会体制的局限会凸显这种冲突. \r\n我一直在思考撰写圣经的那些作者(他们对世界的规律的理解就像真是上帝说的一样)为什么要\"封\"一个上帝.
+  呵呵, 很多答案的问题,但没有找到最好的."
+created_at: 2011-05-12 14:30:45.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2011/04/22/%e7%b2%be%e8%8b%b1%e7%9a%84%e7%a7%98%e5%af%86/
+author_name: MATT
+author_email: matt.jiangtao@gmail.com
+author_url: ''
+content: ! "春节前后我上了一个英语培训班，教课的一个老师讲授的内容主要是英文king James版的圣经节选，西塞罗的拉丁文名篇，以及部分希腊文，当然都只是泛泛而讲，起个方法论入门作用。按他的说法，英文的源头就在于拉丁文和希腊文，以及圣经。他本身是出自天主教家庭，所以多说了一些关于信仰的事情。上个月我去附近的教会买了一本新国际版和和合本对照的圣经。当时有一个义工见我在问圣经版本的事情，就过来和我聊了一阵，并邀请我周日上午过去参加活动，以及参加英文查经班之类的。我回应说先通读一下圣经，然后觉得有必要了再过去。我之所以没去参加查经班，是因为还不是很接受这些。比如神创人，实在是无法完全信任。但是，有时候又有另外一些想法，比如在看《太阳系的奇迹》这部记录片的时候，感觉非常震撼。巨大的木星光环和大红斑，真的是让无神论者无所适从。或许我可以从另一个角度来思考这类问题。牛顿力学可以解释苹果下落，万有引力可以解释地球绕太阳转动，进化论可以解释人的起源，宇宙大爆炸可以解释天体的起源...但是，所有这些科学规则还只是次生真理，如果继续追问下去，为什么所以这些科学理论的背后呢，所有这些科学理论统一在哪里，所有这些科学理论更高一层次的规则是什么？终极的真理可以归结于全能的神。从这可角度来说，神存在的理论倒是可以自洽，如果我们把\"神\"作为一个抽象的存在，作为唯一的终极规律，而不是偶像崇拜。\r\n但是问题又来了，上个月买的圣经我刚刚读完了创世纪，在读出埃及记。在读创世纪时，我强烈的感觉到，这个“神”并不是我上面所说的那样。圣经里的神，原是亚伯拉罕家的守护神。古时，每个家族或部落应该都有自己的图腾和守护神。亚伯拉罕家的守护神的特别之处在于，这个神是无形的，全能的，唯一的，不像其他家族和部落的许多实体偶像多神，漏洞太多，容易淘汰。如果是无形的唯一的全能的，则较能突破产生年代的认识局限，被后来的人不断解释以适应不但发展的认知水平。比如，无形的唯一的全能的神，现在可以被抽象成宇宙的终极规律。"
+created_at: 2011-05-13 07:53:55.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2011/04/22/%e7%b2%be%e8%8b%b1%e7%9a%84%e7%a7%98%e5%af%86/
+author_name: Tze-yuan
+author_email: dongze@gmail.com
+author_url: ''
+content: ! "哈哈, 认同:\"无形的唯一的全能的神，现在可以被抽象成宇宙的终极规律\". 要让人接受,必须明确化,太抽象的东西不合适,于是圣经里的神就被神化了(你提到的).
+  这些理解应该是人类发展到现在精神上的收获. \r\n很多人相信有神, 但他们中有些人并不是天主教徒或基督教徒. 有没有信仰完全取决于他们个人. 一些专业人士在从事科学研究中根本找不到更高的自然规律,他们相信接受神更加容易更加合理.
+  或许科学研究的逻辑性会迫使更多专业人士去追求信仰. \r\n我个人感觉有信仰的人更和善, 感觉他们更加幸福些.\r\n人类观察到世界的壮观与奇妙总会感叹,其实它就在那里.
+  虽然搞清楚了人的起源的问题,但生命是怎样产生的是个更大的问题. 目前我对这个问题颇有兴趣, 我偏向于生命的化学起源说,但要证明还遥遥无期. 想到这些的时候,我就只能接受神.\r\n欧洲有很多查经班,
+  感觉在这里根本不入流. 我到现在也没有搞清楚他们到底是什么门派,尽管他们忠于上帝信耶稣.你就自己看着办了."
+created_at: 2011-05-13 09:41:18.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2011/05/23/%e5%85%b3%e4%ba%8e%e4%b8%ad%e5%8c%bb%e4%b8%ad%e8%8d%af%e7%9a%84%e4%b8%80%e4%ba%9b%e6%83%b3%e6%b3%95/
+author_name: Tze-yuan
+author_email: dongze@gmail.com
+author_url: ''
+content: ! "写的文章很大气,有空多写点.\r\n目前世界上有70%的假药分布在东欧,东亚以及非洲,相信中国市场占的份额很大.法国有很严格的管理系统,2008年的报告中没有假药发现(在药店和正规途径购买).其实控制假药就看政府的作为.\r\n这只是假药,而中国最严重的是仿制药.
+  西药的药理和副作用很明确,是建立在大量科学研究的结论.但是仿制药的药理和副作用凭借的是拿来主义:本体西药可以,那么仿制药同样可以. 真正研究生物学或药物的科学家知道这犯了经验主义的错误,换个角度说,这个东东的存在是对生命不敬畏的表现.\r\n中药作为传统医学,它在物理治疗方面是现代医学暂时无法做到的,比如针灸,刮痧等.但中成药原料来源于自然界草药,大众觉得\"绿色\"一点,也就成为很多人的首选.其实关键是西药在中国的发展不规范导致的不信任,这个形成的原因是我国很少有自己开发的原创性药物."
+created_at: 2011-05-27 15:05:06.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2012/01/01/2011%e5%b9%b4%e6%94%af%e5%87%ba%e7%8a%b6%e5%86%b5/
+author_name: jh
+author_email: mindy.dengmin@gmail.com
+author_url: ''
+content: 要比上一年的花费少呢，是好事儿吧！
+created_at: 2012-01-04 14:38:04.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2012/06/09/dream-a-little-dream/
+author_name: ! '@@'
+author_email: 64125586@qq.com
+author_url: ''
+content: 理想是丰满的，现实是骨干的
+created_at: 2012-06-11 14:50:55.000000000 +00:00
+
+--- !ruby/object:Comment
+post_url: http://example.com/2012/06/09/dream-a-little-dream/
+author_name: jh
+author_email: 277191674@qq.com
+author_url: ''
+content: A pleasant dream
+created_at: 2012-07-19 06:16:10.000000000 +00:00
+

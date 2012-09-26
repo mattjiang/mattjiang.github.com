@@ -1,0 +1,35 @@
+---
+layout: post
+title: 镜头
+---
+
+<span>佳能EF 85mm f/1.8 USM</span>
+
+<img class="alignleft size-full wp-image-255" title="DSC_9293" src="http://mattjiang.com/blog/wp-content/uploads/2009/11/DSC_9293.jpg" alt="DSC_9293" width="290" height="387" />镜头结构： 9片7组
+
+镜头焦距： 85mm
+
+最大光圈： 1.8
+
+最小光圈： 22
+
+视角： 28.5
+
+光圈叶片： 8
+
+最大放大倍率： 0.13
+
+最近对焦距离： 0.85m
+
+驱动马达： USM
+
+滤镜直径： 58mm
+
+遮光罩： ET-65II
+
+外观尺寸(DxL)(mm): 75.0x71.5
+
+重量： 425g
+
+<span>
+</span>
